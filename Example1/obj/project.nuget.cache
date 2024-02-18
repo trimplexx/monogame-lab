@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEnDNALDsMvKC/iFg7TQOf9oyCQ2yqJHzbr+FU/InXAvfY1eW0bMIXEOn6r8aaVIdcCEvyaB3nK4VVyRb9zYkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukig\\RiderProjects\\zal1-game\\Game1\\Game1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukig\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\lukig\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
